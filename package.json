@@ -1,0 +1,16 @@
+{
+  "name": "scl009-tallertestingrecursividad",
+  "version": "1.0.0",
+  "description": "Holo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Fabian Alexis Bravo Abarca",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "jest": "^24.8.0"
+  }
+}
